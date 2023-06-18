@@ -1,7 +1,7 @@
 {
 	"type": "package",
-	"handle": "girlfriend-gpt-bot",
-	"version": "2.1.0-rc.3",
+	"handle": "laxdos-bot",
+	"version": "1.0.4",
 	"description": "",
 	"author": "",
 	"entrypoint": "Unused",
